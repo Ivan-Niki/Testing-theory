@@ -284,3 +284,13 @@ QC (Quality Control) – включает в себя не только сами
 1) Метрики процесса (Process metrics)
 2) Метрики продукта (Product metrics)
 
+
+------------ Метрики процесса (Process metrics) ------------
+Используются в процессе подготовки и выполнения тестирования. Сюда относятся такие метрики как:
+
+-> Продуктивность подготовки тест-кейсов (Test Case Preparation Productivity): используется для расчета количества подготовленных тест-кейсов и усилий (Effort), затраченных на их подготовку.
+Test Case Preparation Productivity = (No of Test Case) / (Effort spent for Test Case Preparation)
+
+-> Охват тестового дизайна (Test Design Coverage): процент покрытия тест-кейсами требований.
+Test Design Coverage = ((Total number of requirements mapped to test cases) / (Total number of requirements)*100
+
