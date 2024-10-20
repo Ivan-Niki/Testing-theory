@@ -310,3 +310,10 @@ Test Cases Failed = (Total no. of test cases failed) / (Total no. of test cases 
 
 -> Заблокированные тест-кейсы (Test Cases Blocked): для измерения процента блокированных тест-кейсов.
 Test Cases Blocked = (Total no. of test cases blocked) / (Total no. of test cases executed) * 100
+
+
+-------------- Метрики продукта (Product metrics) --------------
+
+-> Уровень обнаружения ошибок (Error Discovery Rate): для определения эффективности тест-кейсов.
+Error Discovery Rate = (Total number of defects found /Total no. of test cases executed)*100
+
