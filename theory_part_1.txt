@@ -301,3 +301,12 @@ Test Execution Productivity = (No of Test cases executed) / (Effort spent for ex
 -> Покрытие выполненных тестов (Test Execution Coverage): предназначено для измерения количества выполненных 
 тест-кейсов по сравнению с количеством запланированных тест-кейсов.
 Test Execution Coverage = (Total no. of test cases executed / Total no. of test cases planned to execute)*100
+
+-> Успешные тест-кейсы (Test Cases Passed): для измерения процента пройденных успешно тест-кейсов.
+Test Cases Pass = (Total no. of test cases passed) / (Total no. of test cases executed) * 100
+
+-> Неуспешные тест-кейсы (Test Cases Failed): для измерения процента заваленных тест-кейсов.
+Test Cases Failed = (Total no. of test cases failed) / (Total no. of test cases executed) * 100
+
+-> Заблокированные тест-кейсы (Test Cases Blocked): для измерения процента блокированных тест-кейсов.
+Test Cases Blocked = (Total no. of test cases blocked) / (Total no. of test cases executed) * 100
