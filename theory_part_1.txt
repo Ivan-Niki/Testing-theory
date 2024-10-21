@@ -317,3 +317,7 @@ Test Cases Blocked = (Total no. of test cases blocked) / (Total no. of test case
 -> Уровень обнаружения ошибок (Error Discovery Rate): для определения эффективности тест-кейсов.
 Error Discovery Rate = (Total number of defects found /Total no. of test cases executed)*100
 
+-> Процент выявления дефектов (Defect Detection Percentage (DDP)): Количество дефектов, выявленных в фазе 
+тестирования, поделенное на число дефектов, найденных в этой фазе тестирования, а также во всех последующих 
+фазах.
+
