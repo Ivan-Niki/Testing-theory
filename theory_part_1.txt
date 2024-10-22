@@ -321,3 +321,8 @@ Error Discovery Rate = (Total number of defects found /Total no. of test cases e
 тестирования, поделенное на число дефектов, найденных в этой фазе тестирования, а также во всех последующих 
 фазах.
 
+-> Уровень исправления дефектов (Defect Fix Rate): помогает узнать качество сборки (build) с точки зрения 
+устранения дефектов.
+Defect Fix Rate = (Total no of Defects reported as fixed - Total no. of defects reopened) / (Total no of Defects 
+reported as fixed + Total no. of new Bugs due to fix)*100
+
