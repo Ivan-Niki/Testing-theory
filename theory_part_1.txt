@@ -326,3 +326,9 @@ Error Discovery Rate = (Total number of defects found /Total no. of test cases e
 Defect Fix Rate = (Total no of Defects reported as fixed - Total no. of defects reopened) / (Total no of Defects 
 reported as fixed + Total no. of new Bugs due to fix)*100
 
+-> Плотность дефектов (Defect Density): количество дефектов, обнаруженных в компоненте или системе, поделенное 
+на размер компонента или системы (выраженный в стандартных единицах измерения, например строках кода, числе 
+классов или функций). (ISTQB)
+Defect Density = Total no. of defects identified / Actual Size (requirements)
+
+
