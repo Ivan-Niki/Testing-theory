@@ -331,4 +331,6 @@ reported as fixed + Total no. of new Bugs due to fix)*100
 классов или функций). (ISTQB)
 Defect Density = Total no. of defects identified / Actual Size (requirements)
 
+-> Утечка дефектов (Defect Leakage): используется для проверки эффективности процесса тестирования перед UAT.
+Defect Leakage = ((Total no. of defects found in UAT)/(Total no. of defects found before UAT)) * 100
 
