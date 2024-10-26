@@ -334,3 +334,6 @@ Defect Density = Total no. of defects identified / Actual Size (requirements)
 -> Утечка дефектов (Defect Leakage): используется для проверки эффективности процесса тестирования перед UAT.
 Defect Leakage = ((Total no. of defects found in UAT)/(Total no. of defects found before UAT)) * 100
 
+-> Эффективность устранения дефектов (Defect Removal Efficiency): позволяет сравнивать общую (дефекты, 
+обнаруженные до и после поставки) эффективность устранения дефектов.
+
