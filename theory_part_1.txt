@@ -336,4 +336,6 @@ Defect Leakage = ((Total no. of defects found in UAT)/(Total no. of defects foun
 
 -> Эффективность устранения дефектов (Defect Removal Efficiency): позволяет сравнивать общую (дефекты, 
 обнаруженные до и после поставки) эффективность устранения дефектов.
+Defect Removal Efficiency = ((Total no. of defects found pre-delivery) /( (Total no. of defects found 
+pre-delivery )+ (Total no. of defects found post-delivery)))* 100
 
