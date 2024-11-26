@@ -44,10 +44,10 @@
 - Комбинаторные техники (Combinatorial Test Techniques)
 - Переходы между состояниями (State transition)
 - Случаи использования (Use case testing)
-- Domain testing
-- Decision Table Testing
-- Classification Tree Method
-- Cause-Effect Graphing
+- Доменное тестирование (Domain testing)
+- Таблица принятия решений (Decision Table Testing)
+- Метод дерева классификации (Classification Tree Method) 
+- Причина-Следствие (Cause-Effect Graphing)
 
 
 
