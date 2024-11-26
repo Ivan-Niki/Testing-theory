@@ -38,7 +38,16 @@
 2) Техники, основанные на опыте (Experience-based);
 3) Техники черного ящика (Black-box, Specification-based).
 
-
+К техникам черного ящика относятся:
+- Эквивалентное Разделение (Equivalence Partitioning - EP)
+- Анализ Граничных Значений (Boundary Value Analysis - BVA)
+- Комбинаторные техники (Combinatorial Test Techniques)
+- Переходы между состояниями (State transition)
+- Случаи использования (Use case testing)
+- Domain testing
+- Decision Table Testing
+- Classification Tree Method
+- Cause-Effect Graphing
 
 
 
